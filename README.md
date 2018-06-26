@@ -1,2 +1,2 @@
 # youtube
-A new youtube page with a wide selection of viral youtube videos
+A mock youtube page created with HTML. Video pages were linked to the home page by clicking the photo or title. The video page included the video that would play automatically, the title, views, and video description, as well as a link to navigate back to the home page. 
